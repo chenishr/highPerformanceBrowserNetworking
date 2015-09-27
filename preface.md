@@ -52,13 +52,30 @@
 请将本书相关的评论和问题写信给出版者：
 
 >	O’Reilly Media, Inc.
+
 >	1005 Gravenstein Highway North
+
 >	Sebastopol, CA 95472
+
 >	800-998-9938 (in the United States or Canada)
+
 >	707-829-0515 (international or local)
+
 >	707-829-0104 (fax)
 
-我们有一个这本书的网页，在那里列有勘误表、例子和其它额外的信息。你可以通过这个地址访问[这里][bookurl]。
+我们有一个这本书的网页，在那里列有勘误表、例子和其它额外的信息。你可以通过这个地址访问[bookurl][]。
 
+要评论或者提技术问题，请发邮件到：
+<bookquestions@oreilly.com>
+
+想了解我们的更多书籍、课程、会议和新闻，请访问[这里][oreilly]。
+
+我们在 Facebook：[facebook][]
+我们在 Twitter：[twiffer][]
+我们在 YouTube：[youtube][]
+
+[facebook]:	http://facebook.com/oreilly	"Facebook"
+[twitter]:	http://twitter.com/oreillymedia	"twitter"
+[youtube]:	http://www.youtube.com/oreillymedia	"youtube"
 [bookurl]:	http://oreil.ly/high-performance-browser "High Performance Browser Networking"
 
