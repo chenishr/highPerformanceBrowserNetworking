@@ -63,7 +63,7 @@
 
 >	707-829-0104 (fax)
 
-我们有一个这本书的网页，在那里列有勘误表、例子和其它额外的信息。你可以通过这个地址访问[bookurl][]。
+我们有一个这本书的网页，在那里列有勘误表、例子和其它额外的信息。你可以通过这个地址访问[High Performance Browser Networking][]。
 
 要评论或者提技术问题，请发邮件到：
 <bookquestions@oreilly.com>
@@ -71,11 +71,14 @@
 想了解我们的更多书籍、课程、会议和新闻，请访问[oreilly][]。
 
 我们在 Facebook：[facebook][]
+
 我们在 Twitter：[twitter][]
+
 我们在 YouTube：[youtube][]
 
 [facebook]:	http://facebook.com/oreilly	"Facebook"
 [twitter]:	http://twitter.com/oreillymedia	"twitter"
 [youtube]:	http://www.youtube.com/oreillymedia	"youtube"
-[bookurl]:	http://oreil.ly/high-performance-browser "High Performance Browser Networking"
+[High Performance Browser Networking]:	http://oreil.ly/high-performance-browser "High Performance Browser Networking"
+[oreilly]:	http://www.oreilly.com
 
