@@ -68,10 +68,10 @@
 要评论或者提技术问题，请发邮件到：
 <bookquestions@oreilly.com>
 
-想了解我们的更多书籍、课程、会议和新闻，请访问[这里][oreilly]。
+想了解我们的更多书籍、课程、会议和新闻，请访问[oreilly][]。
 
 我们在 Facebook：[facebook][]
-我们在 Twitter：[twiffer][]
+我们在 Twitter：[twitter][]
 我们在 YouTube：[youtube][]
 
 [facebook]:	http://facebook.com/oreilly	"Facebook"
