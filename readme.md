@@ -248,6 +248,6 @@ Ilya Grigorik
 			*	[ ] Data Efficiency and Compression
 		-	[ ] Performance Checklist
 *	[ ] Index
----
+
 
 [bookurl]:	http://chimera.labs.oreilly.com/books/1230000000545
