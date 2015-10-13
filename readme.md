@@ -12,25 +12,25 @@ Ilya Grigorik
 
 
 
-*	[x] Foreword
-*	[x] Preface
-	+	[x] About This Book
-	+	[x] Conventions Used in This Book
-	+	[x] Safari® Books Online
-	+	[x] How to Contact Us
-	+	[x] Content Updates
-		-	[x] May 23, 2014
+*	[x] 前言
+*	[x] 序言
+	+	[x] 关于本书
+	+	[x] 本书的一些约定
+	+	[ ] Safari® Books Online
+	+	[x] 联系我们
+	+	[ ] Content Updates
+		-	[ ] May 23, 2014
 *	[ ] I. Networking 101
-	+	[x] 1. Primer on Latency and Bandwidth
-		-	[x] Speed Is a Feature
-		-	[x] The Many Components of Latency
-		-	[x] Speed of Light and Propagation Latency
-		-	[x] Last-Mile Latency
-		-	[x] Bandwidth in Core Networks
-		-	[x] Bandwidth at the Network Edge
-		-	[x] Delivering Higher Bandwidth and Lower Latencies
-	+	[ ] 2. Building Blocks of TCP
-		-	[x] Three-Way Handshake
+	+	[x] 1. 初识延迟与带宽
+		-	[x] 速度就是特性
+		-	[x] 影响延迟的因素
+		-	[x] 光速与传播延迟
+		-	[x] 最后一英里的延迟
+		-	[x] 核心网络的带宽
+		-	[x] 边缘网络的带宽
+		-	[x] 提供更高的带宽和更低的延迟
+	+	[ ] 2. 构建 TCP 块
+		-	[x] 三次握手
 		-	[ ] Congestion Avoidance and Control
 			*	[ ] Flow Control
 			*	[ ] Slow-Start
