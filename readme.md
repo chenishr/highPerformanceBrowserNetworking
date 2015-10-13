@@ -31,7 +31,7 @@ Ilya Grigorik
 		-	[x] Delivering Higher Bandwidth and Lower Latencies
 	+	[ ] 2. Building Blocks of TCP
 		-	[x] Three-Way Handshake
-		-	[-] Congestion Avoidance and Control
+		-	[ ] Congestion Avoidance and Control
 			*	[ ] Flow Control
 			*	[ ] Slow-Start
 			*	[ ] Congestion Avoidance
