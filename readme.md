@@ -20,7 +20,7 @@ Ilya Grigorik
 	+	[x] How to Contact Us
 	+	[x] Content Updates
 		-	[x] May 23, 2014
-*	[x] I. Networking 101
+*	[ ] I. Networking 101
 	+	[x] 1. Primer on Latency and Bandwidth
 		-	[x] Speed Is a Feature
 		-	[x] The Many Components of Latency
@@ -29,7 +29,7 @@ Ilya Grigorik
 		-	[x] Bandwidth in Core Networks
 		-	[x] Bandwidth at the Network Edge
 		-	[x] Delivering Higher Bandwidth and Lower Latencies
-	+	[-] 2. Building Blocks of TCP
+	+	[ ] 2. Building Blocks of TCP
 		-	[x] Three-Way Handshake
 		-	[-] Congestion Avoidance and Control
 			*	[ ] Flow Control
