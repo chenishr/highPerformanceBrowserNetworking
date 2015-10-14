@@ -423,7 +423,7 @@ Ilya Grigorik
 			*	[ ] Eliminate Roundtrips with Server Push
 			*	[ ] Test HTTP/2 Server Quality
 *	[ ] IV. Browser APIs and Protocols
-		14. Primer on Browser Networking
+	+	14. Primer on Browser Networking
 		-	[ ] Connection Management and Optimization
 		-	[ ] Network Security and Sandboxing
 		-	[ ] Resource and Client State Caching
