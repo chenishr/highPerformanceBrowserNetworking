@@ -10,9 +10,9 @@ Ilya Grigorik
 
 欢迎更兴趣的同学一起参与，[任务认领][task]
 
-###	[查看翻译进度][translate]
+#####	[查看翻译进度][translate]
 
-###	[查看校对进度][proofread]
+#####	[查看校对进度][proofread]
 
 [bookurl]:	http://chimera.labs.oreilly.com/books/1230000000545
 [task]:	https://github.com/chenishr/highPerformanceBrowserNetworking/issues/1
